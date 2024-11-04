@@ -116,6 +116,8 @@ if(NUM_LOOPS>=10)    {
 ```
 ## OUTPUT
 $ ./sem.o 
+
+
 ![Screenshot 2024-11-04 170529](https://github.com/user-attachments/assets/6588ee18-7aba-4553-9ade-4cbb3fdf4089)
 
 
